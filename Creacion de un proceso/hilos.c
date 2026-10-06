@@ -1,3 +1,9 @@
+/*
+Alumno Gutierrez Balderas Leonardo de Jesus
+Sistemas Operativos
+2025630080
+Creacion de procesos en un sistema UNIX
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
