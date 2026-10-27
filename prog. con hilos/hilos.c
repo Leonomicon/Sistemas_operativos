@@ -18,10 +18,10 @@ int main(){
 }
 
 void* funhilo(void *arg){
-    int val = 0;
-    while(val != 10000){
+    int val = 10000;
+    while(val != 0){
         printf("%d \n",val);
-        val++;
+        val--;
     }
     pthread_exit(NULL);
 }
