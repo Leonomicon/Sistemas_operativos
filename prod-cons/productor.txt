@@ -1,0 +1,40 @@
+Productor 1 produjo el elemento 100 en el indice 0
+Productor 1 produjo el elemento 101 en el indice 1
+Productor 1 produjo el elemento 102 en el indice 2
+Productor 1 produjo el elemento 103 en el indice 3
+Productor 2 produjo el elemento 200 en el indice 4
+Consumidor 1 consumio el elemento 100 del indice 0
+Consumidor 1 consumio el elemento 101 del indice 1
+Consumidor 1 consumio el elemento 102 del indice 2
+Consumidor 1 consumio el elemento 103 del indice 3
+Consumidor 1 consumio el elemento 200 del indice 4
+Productor 2 produjo el elemento 201 en el indice 0
+Productor 2 produjo el elemento 202 en el indice 1
+Productor 2 produjo el elemento 203 en el indice 2
+Productor 2 produjo el elemento 204 en el indice 3
+Productor 1 produjo el elemento 104 en el indice 4
+Consumidor 1 consumio el elemento 201 del indice 0
+Consumidor 1 consumio el elemento 202 del indice 1
+Consumidor 1 consumio el elemento 203 del indice 2
+Consumidor 1 consumio el elemento 204 del indice 3
+Consumidor 1 consumio el elemento 104 del indice 4
+Productor 1 produjo el elemento 105 en el indice 0
+Productor 2 produjo el elemento 205 en el indice 1
+Productor 1 produjo el elemento 106 en el indice 2
+Productor 2 produjo el elemento 206 en el indice 3
+Productor 1 produjo el elemento 107 en el indice 4
+Consumidor 2 consumio el elemento 105 del indice 0
+Consumidor 2 consumio el elemento 205 del indice 1
+Consumidor 2 consumio el elemento 106 del indice 2
+Consumidor 2 consumio el elemento 206 del indice 3
+Consumidor 2 consumio el elemento 107 del indice 4
+Productor 2 produjo el elemento 207 en el indice 0
+Productor 1 produjo el elemento 108 en el indice 1
+Productor 2 produjo el elemento 208 en el indice 2
+Productor 2 produjo el elemento 209 en el indice 3
+Consumidor 2 consumio el elemento 207 del indice 0
+Consumidor 2 consumio el elemento 108 del indice 1
+Consumidor 2 consumio el elemento 208 del indice 2
+Consumidor 2 consumio el elemento 209 del indice 3
+Productor 1 produjo el elemento 109 en el indice 4
+Consumidor 2 consumio el elemento 109 del indice 4
